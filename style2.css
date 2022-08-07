@@ -1,0 +1,95 @@
+.comeco  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+button{
+    padding: 10px 30px;
+    background-color: red;
+    color: white;
+}
+.principal {
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+.outro{
+    display: flex;
+    justify-content: center;
+}
+.see-plans{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: red;
+    color: white;
+
+}
+.join-free {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: grey
+    color: black
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    background-color: yellowgreen;
+
+}
+.outra-classe{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.footing {
+    display: flex;
+    flex-direction: row;
+
+}
+h3{
+    font-size: 33px;
+    color: red;
+}
+
+#botao {
+    padding: 20px 50px;
+    background-color: black ;
+    display: flex;
+    justify-content: center;
+}
+
+
+body {
+}
+header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+  
+nav {
+    width: 600px;
+  }
+  
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+
+img {
+    size: 30px;
+}
