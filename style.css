@@ -1,0 +1,46 @@
+img{
+    max-width: 40%;
+    display: flex;
+    justify-content: center;    
+}
+.capa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+p {
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    width: 50%;
+}
+h1 {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 80px 80px;
+    background-image: url(https://github.com/ironhack-labs/lab-css-recipes-clone/blob/master/apple-pie/images/apple-pie.jpg?raw=true);}
+h2 {
+    font-weight: bold;
+}
+
+.description{
+    padding: 0 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    size: 32px;
+}
+.ingredientes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 20%;
+    padding: 0 10%;
+}
+.directions >  {
+    display: flex;
+    
+}
